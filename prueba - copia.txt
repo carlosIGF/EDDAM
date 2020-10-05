@@ -1,0 +1,5 @@
+int x = 0;
+string y = "Hola";
+
+for (int i; i < 0; i++){};
+HOLA
